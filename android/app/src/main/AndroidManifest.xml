@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.exam_flutter">
+=======
+    package="com.example.mission_tracker_v2">
+>>>>>>> 764cfa47107123edea7b75fbe8af60ee8791bebe
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
          In most cases you can leave this as-is, but you if you want to provide
@@ -7,7 +11,11 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
+<<<<<<< HEAD
         android:label="exam_flutter"
+=======
+        android:label="mission_tracker_v2"
+>>>>>>> 764cfa47107123edea7b75fbe8af60ee8791bebe
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

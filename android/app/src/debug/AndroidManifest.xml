@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.exam_flutter">
+=======
+    package="com.example.mission_tracker_v2">
+>>>>>>> 764cfa47107123edea7b75fbe8af60ee8791bebe
     <!-- Flutter needs it to communicate with the running application
          to allow setting breakpoints, to provide hot reload, etc.
     -->

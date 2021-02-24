@@ -11,7 +11,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>exam_flutter</string>
+=======
+	<string>mission_tracker_v2</string>
+>>>>>>> 764cfa47107123edea7b75fbe8af60ee8791bebe
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
